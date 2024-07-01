@@ -1,0 +1,5 @@
+/Newton_Portfolio_Final_v2/settings.py
+*.env
+bin/
+lib/
+*.sqlite3
